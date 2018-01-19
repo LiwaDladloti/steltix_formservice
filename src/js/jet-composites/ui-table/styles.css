@@ -1,0 +1,18 @@
+ui-table:not(.oj-complete){
+  visibility: hidden;
+}
+
+ui-table{
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    background: #999;
+}
+th, td {
+    padding: 15px;
+}
